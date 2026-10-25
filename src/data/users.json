@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "email": "priya.admin@school.com",
+    "password": "MJtpZ3iorkqZAcJq:V3unoedLokDf3zUsIITo9iNgczG1dQxF",
+    "userType": "admin",
+    "language": "English",
+    "address": "12 MG Road, Pune",
+    "standard": null,
+    "subjects": []
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "email": "rahul.admin@school.com",
+    "password": "A/eOtDQn2Rn81cid:Hxh8ICJGxewlonXVp0TcQyUv4eAtWBtJ",
+    "userType": "admin",
+    "language": "Hindi",
+    "address": "45 Park Street, Mumbai",
+    "standard": null,
+    "subjects": []
+  },
+  {
+    "id": 3,
+    "name": "Aarav Patel",
+    "email": "aarav@school.com",
+    "password": "wch2972uuspsj2WW:DFbpI5rrwz5jIWi0SDnaJJ+LPmq65HHSQTE=",
+    "userType": "student",
+    "language": "English",
+    "address": "7 Lake View, Pune",
+    "standard": "6th",
+    "subjects": [
+      "Maths",
+      "Science",
+      "English"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ananya Iyer",
+    "email": "ananya@school.com",
+    "password": "8JL0W4tDDree6BKo:NZX8SugcVU52NKVJ2m9m7iCldR8e3ZWmgq0=",
+    "userType": "student",
+    "language": "English",
+    "address": "22 Brigade Road, Bengaluru",
+    "standard": "7th",
+    "subjects": [
+      "Maths",
+      "History",
+      "Geography"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lukas Schmidt",
+    "email": "lukas@school.com",
+    "password": "4K6MrE7Q/gy/mz35:5CiGMrsQ22/1DC8ASF9ZY9CpqQDy8y2LNJ8=",
+    "userType": "student",
+    "language": "German",
+    "address": "3 Koregaon Park, Pune",
+    "standard": "8th",
+    "subjects": [
+      "Science",
+      "German",
+      "Maths"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sneha Kulkarni",
+    "email": "sneha@school.com",
+    "password": "ae6l1UGagTKnVb8J:xo9reb1A1Dc/GWeYAfqGM2bjM379rO0hjbg=",
+    "userType": "student",
+    "language": "Marathi",
+    "address": "18 Shivaji Nagar, Nashik",
+    "standard": "9th",
+    "subjects": [
+      "History",
+      "Marathi",
+      "Science"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kabir Singh",
+    "email": "kabir@school.com",
+    "password": "KEqZ3BVKEZu7xlZp:MqmR7xlogyGNuU8izs6951ccNR1OcwErq60=",
+    "userType": "student",
+    "language": "Hindi",
+    "address": "9 Civil Lines, Delhi",
+    "standard": "10th",
+    "subjects": [
+      "Maths",
+      "Physics",
+      "Chemistry"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Emma Müller",
+    "email": "emma@school.com",
+    "password": "Yx3MC65KkU2WEpdm:IPdSRqIWw6e1tk4eqNfjjW+jIHrJaHnfBnA=",
+    "userType": "student",
+    "language": "German",
+    "address": "5 Baner Road, Pune",
+    "standard": "8th",
+    "subjects": [
+      "English",
+      "History",
+      "Art"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ishaan Reddy",
+    "email": "ishaan@school.com",
+    "password": "n3MnNC4vCPz7bHVM:yR5M8PQXLdM4PLcTeFfdwj29MUntQ9k9BEI=",
+    "userType": "student",
+    "language": "Telugu",
+    "address": "31 Jubilee Hills, Hyderabad",
+    "standard": "10th",
+    "subjects": [
+      "Maths",
+      "Science",
+      "Computer"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "email": "meera@school.com",
+    "password": "MZaGEZSpT875/OL/:iB+NfDDtxd9KANI1VqwfsK+gPbWOt9z0QqU=",
+    "userType": "student",
+    "language": "English",
+    "address": "14 Marine Drive, Kochi",
+    "standard": "7th",
+    "subjects": [
+      "Science",
+      "Geography",
+      "English"
+    ]
+  }
+]
